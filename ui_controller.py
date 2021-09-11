@@ -6,7 +6,7 @@ import time
 
 import socket_temperature_connect
 import socket_oscilloscope_connect
-import usb_connect
+# import usb_connect
 import serial_connect
 from main_window import Ui_MainWindow
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem, QMessageBox
